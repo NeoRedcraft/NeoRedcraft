@@ -3,21 +3,16 @@
 <h1 align = "center" > Welcome! I'm Felipe M. Panugan III </h1>
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Follow_me_on_IG-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
-[![YouTube](https://img.shields.io/badge/Study_Streaminng_in_YT-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LexStudium)
-[![Pinterest](https://img.shields.io/badge/Project_Gallery_here-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lex-gallego-2794071a3/)
+[![Instagram](https://img.shields.io/badge/Follow_me_on_IG-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@f3rdnotturd) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepanuganiii/)
 </div>
-<h3 align = "center" > Self-Driven to Consistently Grow my Developer Skills </h3>
+<h3 align = "center" > Self-Driven to Consistently </h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=madgallego&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 <br>
-<h2 align="center"> 💻 Technology Info </h2>
+<h2 align="center"> 💻 Background Info </h2>
 <h3>Languages</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-FFFFFF.svg?style=for-the-badge&logo=rust&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
