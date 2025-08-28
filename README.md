@@ -3,8 +3,9 @@
 <h1 align = "center" > Welcome! I'm Felipe M. Panugan III </h1>
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Follow_me_on_IG-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@f3rdnotturd) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@f3rdnotturd) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepanuganiii/)
+
 </div>
 <h3 align = "center" > Self-Driven to Consistently (NOT FINAL) </h3>
 
