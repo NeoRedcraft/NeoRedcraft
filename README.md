@@ -4,7 +4,7 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@f3rdnotturd) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepanuganiii/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipepanuganiii/)
 
 </div>
 <h3 align = "center" > Self-Driven to Consistently (NOT FINAL) </h3>
