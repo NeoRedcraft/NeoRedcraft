@@ -16,7 +16,7 @@
 
 
 <br>
-<h2 align="center"> 💻 Background Info </h2>
+<h2 align="center"> 💻 Technical Background 💻 </h2>
 <h3>Languages</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-FFFFFF.svg?style=for-the-badge&logo=rust&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
