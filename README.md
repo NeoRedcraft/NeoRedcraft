@@ -52,8 +52,6 @@
 
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)  
 
-<div align="right">
-  
-![](https://komarev.com/ghpvc/?username=madgallego&abbreviated=true)
+
 
 </div>
