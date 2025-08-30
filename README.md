@@ -1,6 +1,6 @@
 <h6 align="right"> Be Part of the Solution! </h6>
 
-<h1 align = "center" > Welcome! I'm Felipe M. Panugan III </h1>
+<h1 align = "center" > Welcome! This is Felipe M. Panugan III </h1>
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@f3rdnotturd) 
@@ -10,6 +10,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/felipepanuganiii/)
 
 </div>
+<h2 align="center"> 💻  💻 </h2>
 <h3 align = "center" > Self-Driven to Consistently (NOT FINAL) </h3>
 
 ###
