@@ -10,12 +10,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/felipepanuganiii/)
 
 </div>
-<h2 align="center"> 💻  💻 </h2>
-<h3 align = "center" > Self-Driven to Consistently (NOT FINAL) </h3>
-
-###
-
-
 <br>
 <h2 style="text-align: center;">
   💻 Technical Background 💻 
