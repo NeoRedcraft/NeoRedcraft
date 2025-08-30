@@ -1,5 +1,3 @@
-<h6 align="right"> Be Part of the Solution! </h6>
-
 <h1 align = "center" > Welcome! This is Felipe M. Panugan III </h1>
 <div align="center">
 
