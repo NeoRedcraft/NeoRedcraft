@@ -9,7 +9,7 @@
 
 <p align="center">
   
-[![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba)](https://neoredcraft.github.io/)
+[![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)](https://neoredcraft.github.io/)
 
 </p>
 
