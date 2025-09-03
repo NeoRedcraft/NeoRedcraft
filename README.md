@@ -9,7 +9,7 @@
 
 <p align="center">
   
-[![Static Badge](https://img.shields.io/badge/Check%20out%20my%20Portfolio!-8A2BE2)](https://neoredcraft.github.io/)
+[![Static Badge](https://img.shields.io/badge/Check%10out%20my%10Portfolio!-8A2BE2)](https://neoredcraft.github.io/)
 
 </p>
 
