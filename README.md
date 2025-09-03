@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://neoredcraft.github.io/" font-size: 30px>
-    Check out my Resume here! (Work in-progress)
+    Check out my Portfolio here! (Work in-progress)
   </a>
 </p>
 
