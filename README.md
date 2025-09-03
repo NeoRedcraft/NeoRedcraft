@@ -9,7 +9,7 @@
 
 <p align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@f3rdnotturd) 
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba)
 
 </p>
 
