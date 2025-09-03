@@ -8,7 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/felipepanuganiii/)
 
 <p align="center">
-  <a href="https://neoredcraft.github.io/" font-size: 20px>
+  <a href="https://neoredcraft.github.io/" font-size: 30px>
     Check out my Resume here!
   </a>
 </p>
