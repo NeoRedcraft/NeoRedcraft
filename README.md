@@ -8,7 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/felipepanuganiii/)
 
 <p align="center">
-  ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600&link=https%3A%2F%2Fneoredcraft.github.io%2F)
+  <img alt="Static Badge" src="https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600&link=https%3A%2F%2Fneoredcraft.github.io%2F">
 </p>
 
 <img src= "https://cdn.dribbble.com/userupload/24090455/file/original-44d2d037ca9a45179a5237197cd6c31f.gif" >
