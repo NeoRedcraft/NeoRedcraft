@@ -1,7 +1,7 @@
 <h1 align = "center" > Welcome! This is Felipe M. Panugan III </h1>
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@f3rdnotturd) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/f3rdnotturd/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipepanuganiii/)
 [![Docker](https://img.shields.io/badge/Docker-%230077B5.svg?logo=Docker&logoColor=white)](https://hub.docker.com/u/neoredcraft)
 [![Thinkercad](https://img.shields.io/badge/Thinkercad-%230077B5.svg?logo=Thinkercad&logoColor=white)](https://www.tinkercad.com/users/jGYbviTBg5r?type=circuits)
