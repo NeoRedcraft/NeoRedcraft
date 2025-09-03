@@ -6,7 +6,7 @@
 [![Docker](https://img.shields.io/badge/Docker-%230077B5.svg?logo=Docker&logoColor=white)](https://hub.docker.com/u/neoredcraft)
 [![Thinkercad](https://img.shields.io/badge/Thinkercad-%230077B5.svg?logo=Thinkercad&logoColor=white)](https://www.tinkercad.com/users/jGYbviTBg5r?type=circuits)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/felipepanuganiii/)
-<h1 align="center" href="https://neoredcraft.github.io/"> My Resume </h1>
+<p align="center" href="https://neoredcraft.github.io/"> My Resume </p>
 <img src= "https://cdn.dribbble.com/userupload/41693223/file/original-2dce7e441069011e71327674d0444ed7.gif" height= "215px">
 
 
