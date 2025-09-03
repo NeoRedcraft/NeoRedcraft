@@ -13,7 +13,7 @@
 
 </p>
 
-<img src= "https://cdn.dribbble.com/userupload/24090455/file/original-44d2d037ca9a45179a5237197cd6c31f.gif" height= "%30">
+<img src= "https://cdn.dribbble.com/userupload/24090455/file/original-44d2d037ca9a45179a5237197cd6c31f.gif" height= "300px"">
 
 
 </div>
