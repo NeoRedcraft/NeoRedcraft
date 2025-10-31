@@ -20,7 +20,7 @@
 <br>
   <h2>
     💻 Technical Background 💻  
-    <sub><sup><em>As of now (8/31/2025)</em></sup></sub>
+    <sub><sup><em>As of now (10/31/2025)</em></sup></sub>
   </h2>
 <h3>Languages</h3>
 
@@ -55,6 +55,7 @@
 
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-003399.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Zotero](https://img.shields.io/badge/zotero-%23CC2936.svg?&style=for-the-badge&logo=zotero&logoColor=white)
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 
