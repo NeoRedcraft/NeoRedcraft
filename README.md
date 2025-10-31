@@ -37,6 +37,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/google%20colab-%23F9AB00.svg?&style=for-the-badge&logo=google%20colab&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
 ![Zotero](https://img.shields.io/badge/zotero-%23CC2936.svg?&style=for-the-badge&logo=zotero&logoColor=white)
 
 
