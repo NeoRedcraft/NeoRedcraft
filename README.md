@@ -20,7 +20,7 @@
 <br>
   <h2>
     💻 Technical Background 💻  
-    <sub><sup><em>As of now (10/31/2025)</em></sup></sub>
+    <sub><sup><em>As of now (1/31/2026)</em></sup></sub>
   </h2>
 <h3>Languages</h3>
 
