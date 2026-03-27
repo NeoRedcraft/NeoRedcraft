@@ -118,7 +118,7 @@
 <td width="50%" valign="top">
 <h3 align="center" color="white">Monitoring Acquisition System</h2>
 <div align="center" >  
-<a href='https://princejeffrey.netlify.app/index.html'>
+<a>
 <img src="https://raw.githubusercontent.com/NeoRedcraft/Neoredcraft/main/App-dev.png" alt="port img" height="100%" />
 </a>
 <br>
