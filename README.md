@@ -26,6 +26,7 @@
 <div align="center" >  
 <a>
 <img src="https://raw.githubusercontent.com/NeoRedcraft/Neoredcraft/main/AI2.png" alt="gameStoreApp_game1v img" height="100%" />
+A trained YOLOv12 model for classifying and segmenting retinal images in Cataract, Age-Related Macular Disease, and Pathological Myopia
 </a>
 <br>
 <br>
@@ -60,6 +61,7 @@
 <div align="center" >  
 <a>
 <img src="https://raw.githubusercontent.com/NeoRedcraft/Neoredcraft/main/AI3.png"/>
+Using Qwen/Qwen3 pretrained model to use for RAG system about Mental Health Evaluation 
 </a>
 <br>
 <br>
@@ -90,6 +92,7 @@
 <div align="center" >  
 <a>
 <img src="https://raw.githubusercontent.com/NeoRedcraft/Neoredcraft/main/Websys.png" height="100%" />
+A Centralized Partnership Platform for Mapúa Performing Organizations
 </a>
 <br>
 <br>
@@ -120,6 +123,7 @@
 <div align="center" >  
 <a>
 <img src="https://raw.githubusercontent.com/NeoRedcraft/Neoredcraft/main/App-dev.png" alt="port img" height="100%" />
+Monitoring Acquisitions on a Library System for librarians' easy process of monitoring new book purchases
 </a>
 <br>
 <br>
