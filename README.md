@@ -32,10 +32,10 @@ A trained YOLOv12 model for classifying and segmenting retinal images in Catarac
 <br>
 <p>
 <a href="https://github.com/NeoRedcraft/dl-project-1" target="_blank">
-<img src="https://img.shields.io/badge/Github-E9F0F0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Github-E9F0F0?style=social&logo=github&logoColor=black"/>
 </a>
 <a href="https://retinavision.streamlit.app/#detection-info" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=5A749A"/>
+<img src="https://img.shields.io/badge/-website-green?style=&color=5A749A"/>
 </a>  
 </p>
 <hr style="border: none; height: 3px; background-color: #333;">
@@ -67,10 +67,10 @@ Using Qwen/Qwen3 pretrained model to use for RAG system about Mental Health Eval
 <br>
 <p>
 <a href="https://github.com/NeoRedcraft/nlp-project-1" target="_blank">
-<img src="https://img.shields.io/badge/Github-E9F0F0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Github-E9F0F0?style=social&logo=github&logoColor=black"/>
 </a>  
 <a href="https://blogio-production.up.railway.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=5A749A"/>
+<img src="https://img.shields.io/badge/-website-green?style=&color=5A749A"/>
 </a>
 <hr style="border: none; height: 3px; background-color: #333;">	
 </p>
@@ -98,10 +98,10 @@ A Centralized Partnership Platform for Mapúa Performing Organizations
 <br>
 <p>
 <a href="https://github.com/NeoRedcraft/websys_lab-project-1" target="_blank">
-<img src="https://img.shields.io/badge/Github-E9F0F0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Github-E9F0F0?style=social&logo=github&logoColor=black"/>
 </a>
 <a href="https://cardinalstage.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=5A749A"/>
+<img src="https://img.shields.io/badge/-website-green?style=&color=5A749A"/>
 </a>	  
 </p>
 <hr style="border: none; height: 3px; background-color: #333;">
@@ -129,7 +129,7 @@ Monitoring Acquisitions on a Library System for librarians' easy process of moni
 <br>
 <p>
 <a href="https://github.com/NeoRedcraft/App_dev_lab-project" target="_blank">
-<img src="https://img.shields.io/badge/Github-E9F0F0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Github-E9F0F0?style=social&logo=github&logoColor=black"/>
 </a>  
 </p>
 <hr style="border: none; height: 3px; background-color: #333;">
