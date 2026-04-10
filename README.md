@@ -36,7 +36,10 @@ A trained YOLOv12 model for classifying and segmenting retinal images in Catarac
 </a>
 <a href="https://retinavision.streamlit.app/#detection-info" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=&color=5A749A"/>
-</a>  
+</a>
+<a href="https://www.researchgate.net/publication/403377182_A_Deep_Learning-Driven_Framework_for_Multi-Ocular_Disease_Classification_and_Instance_Segmentation_in_Retinal_Imaging" target="_blank">
+<img src="https://img.shields.io/badge/-Research Paper-green?style=&color=5749A"/>
+</a>   
 </p>
 <hr style="border: none; height: 3px; background-color: #333;">
 <p>
