@@ -35,7 +35,7 @@ A trained YOLOv12 model for classifying and segmenting retinal images in Catarac
 <img src="https://img.shields.io/badge/Github-E9F0F0?style=social&logo=github&logoColor=black"/>
 </a>
 <a href="https://retinavision.streamlit.app/#detection-info" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=&color=5A749A"/>
+<img src="https://img.shields.io/badge/-Website-green?style=&color=5A749A"/>
 </a>
 <a href="https://www.researchgate.net/publication/403377182_A_Deep_Learning-Driven_Framework_for_Multi-Ocular_Disease_Classification_and_Instance_Segmentation_in_Retinal_Imaging" target="_blank">
 <img src="https://img.shields.io/badge/-Research Paper-green?style=&color=5749A"/>
@@ -73,7 +73,7 @@ Using Qwen/Qwen3 pretrained model to use for RAG system about Mental Health Eval
 <img src="https://img.shields.io/badge/Github-E9F0F0?style=social&logo=github&logoColor=black"/>
 </a>  
 <a href="https://blogio-production.up.railway.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=&color=5A749A"/>
+<img src="https://img.shields.io/badge/-Website-green?style=&color=5A749A"/>
 </a>
 <hr style="border: none; height: 3px; background-color: #333;">	
 </p>
@@ -104,7 +104,7 @@ A Centralized Partnership Platform for Mapúa Performing Organizations
 <img src="https://img.shields.io/badge/Github-E9F0F0?style=social&logo=github&logoColor=black"/>
 </a>
 <a href="https://cardinalstage.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=&color=5A749A"/>
+<img src="https://img.shields.io/badge/-Website-green?style=&color=5A749A"/>
 </a>	  
 </p>
 <hr style="border: none; height: 3px; background-color: #333;">
